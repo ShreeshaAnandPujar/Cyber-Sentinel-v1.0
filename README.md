@@ -23,6 +23,9 @@ Cyber Sentinel – Part 1: A hands-on beginners guide to ethical hacking and cyb
 He believes in empowering others with practical knowledge to defend the digital world.
 
 ---
+## 📥 View the Publication
+
+📎 [View Cyber Sentinel – Part 1 on LinkedIn](https://www.linkedin.com/posts/shreesha-anand-pujar-ba1b96369_cyber-sentinel-v10-a-beginner-guide-to-activity-7353861675491442688-hwJZ?utm_medium=ios_app&rcm=ACoAAFt6XCkBEwabyQAphHjW-QPFFHUrMmuvKBg&utm_source=social_share_send&utm_campaign=copy_link)
 
 ## 🔖 License
 
